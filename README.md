@@ -18,4 +18,4 @@ Desenvolver e fornecer uma pulseira inteligente, chamada PulseGuard, que permita
 - Alerta em caso de Emergência
 
 # O Projeto não está funcionando, pois não sabemos desenvolver os outros sistemas que gostariamos de implementar. (Apenas para saber como seria aproximadamente)
-# Link do Projeto - https://wokwi.com/projects/382245563827122177
+# Link do Projeto - https://wokwi.com/projects/382283199503118337
