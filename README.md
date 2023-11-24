@@ -7,4 +7,15 @@ O monitoramento da saúde pessoal é essencial para prevenir doenças, promover 
 # Objetivo do Produto:
 Desenvolver e fornecer uma pulseira inteligente, chamada PulseGuard, que permita aos usuários monitorar diversos indicadores de saúde de forma contínua e conveniente, oferecendo análises precisas, alertas em tempo real e contribuindo para uma gestão proativa da saúde.
 
+# Funcionalidades do Produto:
+- Pulseira para ser usada diariamente
+- Frequência Cardíaca
+- Níveis de Glicose
+- Pressão Arterial
+- Qualidade de Sono
+- Atividade Física
+- Análise de Dados
+- Alerta em caso de Emergência
+
+# O Projeto não está funcionando, pois não sabemos desenvolver os outros sistemas que gostariamos de implementar. (Apenas para saber como seria aproximadamente)
 # Link do Projeto - https://wokwi.com/projects/382245563827122177
